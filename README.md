@@ -1,5 +1,5 @@
 # hello-world
-*italicized text* This is a space for me to orient myself within GitHub repositories.
+*This is a space for me to orient myself within GitHub repositories.* 
 # H1 A Few Ideas
 - [X] Keep Curious 🧠
 - [X] Keep Learning 📚
